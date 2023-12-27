@@ -1,11 +1,21 @@
 # BookTracker-App-ReactCRUD
 
-<h1>home page</h1>
+📚BookTracker App: "A Simple React CRUD Application for Tracking Read and Undead Books"
 
-<h1>features</h1>
+✨The primary purpose of the application is to enable users to track the books they have read and haven't read.
 
 
-<h1>used technologies</h1>
+<h1>🚀features</h1>
+✅Book Addition, ✅Book Title Editing,✅Book Deletion,✅Marking Books as Read.
+
+
+<h1>🛠used technologies</h1>
+📌React,
+📌React-Toastify, 
+📌Uuid, 
+📌JavaScript, 
+📌HTML ve CSS.
+
 <img src="./public/BookTracker-App.gif"/>
 
 
