@@ -1,4 +1,15 @@
-# Getting Started with Create React App
+# BookTracker-App-ReactCRUD
+
+<h1>home page</h1>
+
+<h1>features</h1>
+
+
+<h1>used technologies</h1>
+<img src="./public/BookTracker-App.gif"/>
+
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -68,4 +79,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-# BookTracker-App-ReactCRUD
+
